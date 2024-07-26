@@ -1,5 +1,5 @@
-# Phylogenetics project (guided by Prof Nicolas Salamin)
-Aim: Build a python module to calculate the likelihood of a phylogenetic tree.
+# Phylogenetics project
+Aim: Build a python module to calculate the likelihood of a phylogenetic tree (guided by Prof Nicolas Salamin)
 
 The script is to store the information about the tree and calculate the log-likelihood of the tree from the given information. The data consists of following three files:
 
