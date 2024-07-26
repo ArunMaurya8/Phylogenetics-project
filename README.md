@@ -25,5 +25,5 @@ Step2: Use dynamic programming to calculate the probability of the alignment on 
 
 To calculate the log-likelihood of the known tree mentioned, run the command:
 
-python3 script.py
+```python3 script.py```
 
